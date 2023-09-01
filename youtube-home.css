@@ -437,9 +437,9 @@ line-height: normal;
       /* Adjust the navigation bar for smaller screens */
       height: 3rem; /* Decrease the height */
     }
-    .side-upper {
+/*     .side-upper {
         display: none;
-      }
+      } */
     
       /* Hide the .all-items class on phones */
       .all-items {
